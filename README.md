@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +15,7 @@
             --hover-color: rgba(0, 238, 255, .2);
         }
 
-         {
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
